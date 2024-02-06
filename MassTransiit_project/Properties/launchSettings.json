@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "MassTransiit_project": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}
